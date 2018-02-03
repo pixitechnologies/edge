@@ -1,0 +1,19 @@
+{
+  "name": "edgelogistics",
+  "version": "1.0.0",
+  "description": "website edge logistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixitechnologies/edge.git"
+  },
+  "author": "pixitechnologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixitechnologies/edge/issues"
+  },
+  "homepage": "https://github.com/pixitechnologies/edge#readme"
+}
