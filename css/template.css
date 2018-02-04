@@ -62,7 +62,7 @@ h6 {
 LINK STYLE
 ------------------------------------------*/
 a {
-  color: #65d3e3;
+  color: #3dace1;
   text-decoration: none;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -142,7 +142,7 @@ Breadcrumb
 }
 
 .breadcrumb a:hover {
-  color: #65d3e3;
+  color: #3dace1;
   text-decoration: none;
 }
 
@@ -213,7 +213,7 @@ button:focus {
 /*btn-primary*/
 .btn-primary {
   color: #fff;
-  background-color: #65d3e3;
+  background-color: #3dace1;
   border-color: transparent;
 }
 
@@ -269,7 +269,7 @@ ul.check-square li::before {
   position: absolute;
   left: 0;
   top: 0;
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 /*List check-square-o*/
@@ -287,7 +287,7 @@ ul.check-square-o li::before {
   position: absolute;
   left: 0;
   top: 0;
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 /*List check*/
@@ -305,7 +305,7 @@ ul.check li::before {
   position: absolute;
   left: 0;
   top: 0;
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 /*List check-circle*/
@@ -323,7 +323,7 @@ ul.check-circle li::before {
   position: absolute;
   left: 0;
   top: 0;
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 .sticky-container {
@@ -354,7 +354,7 @@ Form Style
 }
 
 .form-control:focus {
-  border-color: #65d3e3;
+  border-color: #3dace1;
   box-shadow: none;
 }
 
@@ -368,8 +368,8 @@ a.list-group-item {
 .list-group-item.active, 
 .list-group-item.active:hover, 
 .list-group-item.active:focus {
-  background-color: #65d3e3;
-  border-color: #65d3e3;
+  background-color: #3dace1;
+  border-color: #3dace1;
 }
 
 
@@ -435,7 +435,7 @@ a.carousel-control i {
 
 a.carousel-control i:hover {
   background: #FFFFFF;
-  color: #65D3E3;
+  color: #3dace1;
   text-shadow: none;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -562,14 +562,14 @@ TAB
 }
 
 .widget .tab-content span.author a:hover {
-  color: #65d3e3!important;
+  color: #3dace1!important;
 }
 
 .widget .tab-content li a,
 .widget .tab-content li a,
 .widget .tab-content i,
 .widget.tab-content li a:hover {
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 
@@ -591,7 +591,7 @@ SECTION
   content: "";
   width: 65px;
   height: 3px;
-  background-color: #65d3e3;
+  background-color: #3dace1;
   position: absolute;
   left: 50%;
   margin-left: -32px;
@@ -640,7 +640,7 @@ SECTION
 }
 
 .call-to-action ul li a:hover {
-  color: #65d3e3;
+  color: #3dace1;
   text-decoration: none;
 }
 
@@ -663,7 +663,7 @@ SECTION
 }
 
 .social-links li a:hover {
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 .social-links i {
@@ -736,7 +736,7 @@ POPUP FEATURE
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(101, 211, 227, 0.8);
+  background:#3dace1;
   display: inline-block;
   opacity: 0;
 }
@@ -791,7 +791,7 @@ POPUP FEATURE
 
 .more-link a:hover {
   background-color: #fff;
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 .popup-feature::before {
@@ -806,7 +806,7 @@ POPUP FEATURE
 CTA SECTION
 --------------------------------------------------------------------- */
 .cta-section {
-  background-color: #65d3e3;
+  background-color: #3dace1;
   padding: 20px 0;
 }
 
@@ -876,7 +876,7 @@ FOOTER WIDGET SECTION
   padding: 0 16px;
   margin-top: 12px;
   border-radius: 30px;
-  background-color: #65d3e3;
+  background-color: #3dace1;
 }
 
 .footer-widget-section address .modal-map:hover {
@@ -913,7 +913,7 @@ FOOTER WIDGET SECTION
 }
 
 .footer-widget ul li a:hover {
-  color: #65d3e3;
+  color: #3dace1;
   text-decoration: none;
 }
 
@@ -930,7 +930,7 @@ FOOTER WIDGET SECTION
 }
 
 .newsletter-form .form-group .form-control:focus {
-  border-color: #65d3e3;
+  border-color: #3dace1;
 }
 
 .newsletter-form .form-group button {
@@ -940,7 +940,7 @@ FOOTER WIDGET SECTION
   border: 0;
   line-height: 24px;
   background: transparent;
-  color: #65d3e3;
+  color: #3dace1;
   padding: 10px;
 }
 
@@ -979,7 +979,7 @@ COPYRIGHT SECTION
 }
 
 .footer-menu li a:hover {
-  color: #65d3e3;
+  color: #3dace1;
   text-decoration: none;
 }
 
@@ -1013,7 +1013,7 @@ BACK TO TOP
   position: fixed;
   bottom: 30px;
   right: 30px;
-  color: #65d3e3;
+  color: #3dace1;
   cursor: pointer;
   display: none;
   z-index: 9999;
@@ -1028,7 +1028,7 @@ BACK TO TOP
 
 #toTop:hover {
   color: #fff;
-  background-color: #65d3e3;
+  background-color: #3dace1;
   border: 1px solid transparent;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1095,7 +1095,7 @@ h2.widget-title {
 }
 
 .widget li a:hover {
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 form.search-form {
@@ -1127,7 +1127,7 @@ form.search-form label {
   right: 0;
   background: transparent;
   border: 0;
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 .widget_search form button[type=submit] i {
@@ -1158,7 +1158,7 @@ form.search-form label {
 }
 
 .widget_tag_cloud ul li a:hover {
-  background: #65d3e3;
+  background: #3dace1;
   color: #fff;
   border: 1px solid transparent;
 }
@@ -1204,8 +1204,8 @@ Pagination
 .pagination > li > a:focus,
 .pagination > li > a:focus {
   color: #FFFFFF;
-  border: 2px solid #65D3E3;
-  background: #65D3E3;
+  border: 2px solid #3dace1;
+  background: #3dace1;
 }
 
 .pagination > .active > a,
@@ -1214,8 +1214,8 @@ Pagination
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
   color: #FFFFFF;
-  border: 2px solid #65D3E3;
-  background: #65D3E3;
+  border: 2px solid #3dace1;
+  background: #3dace1;
 }
 
 .pagination > li > a:hover {
@@ -1255,7 +1255,7 @@ Pagination
 .pager li>a:focus {
   text-decoration: none;
   color: #fff;
-  background-color: #65d3e3;
+  background-color: #3dace1;
   border-color: transparent;
 }
 

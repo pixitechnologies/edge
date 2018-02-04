@@ -55,7 +55,7 @@ Author: Cloud Software Solution Ltd.
 
 .hero-slide .carousel-caption .lead {
     font-size               : 24px;
-    color                   : #555555;
+    color                   : #eea236;
     font-weight             : normal;
     margin-bottom           : 30px;
     -webkit-animation-delay : 200ms;
@@ -92,8 +92,8 @@ Author: Cloud Software Solution Ltd.
     }
 
 .hero-slide .carousel-indicators li.active {
-    border-color     : #65d3e3;
-    background-color : #65d3e3;
+    border-color     : #3dace1;
+    background-color : #3dace1;
     opacity          : 1;
     }
 
@@ -352,7 +352,7 @@ Whyus Setion
 }
 
 .css-tab .nav-tabs>li>a i {
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 .css-tab .nav-tabs > li > a:hover, 
@@ -361,7 +361,7 @@ Whyus Setion
 .css-tab .nav-tabs > li.active > a:hover, 
 .css-tab .nav-tabs > li.active > a:focus {
   color: #ffffff;
-  background: #65d3e3;
+  background: #3dace1;
   border: 0;
 }
 
@@ -498,7 +498,7 @@ TESTIMONIAL SECTION
 #testimonial-carousel .carousel-indicators .active {
   width: 18px;
   height: 5px;
-  background-color: #65d3e3;
+  background-color: #3dace1;
   border: 1px solid transparent;
 }
 
@@ -579,7 +579,7 @@ TESTIMONIAL SECTION
 }
 
 .client-org a:hover{
-  color: #65D3E3;
+  color: #3dace1;
 }
 .client-avatar{
   display: block;
@@ -625,7 +625,7 @@ PARTNER SECTION
 
 .partner-carousel-navigation .prev:hover,
 .partner-carousel-navigation .next:hover {
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 .partner-carousel-navigation .prev {
@@ -671,7 +671,7 @@ span.count-description:before {
   font-size: 100px;
   line-height: 70px;
   float: left;
-  color: #65d3e3;
+  color: #3dace1;
   margin-right: 10px;
 }
 
@@ -731,7 +731,7 @@ ABOUT PAGE
 
 .employee i,
 .employee .timer {
-  color: #80c5e5;
+  color: #3dace1;
 }
 
 .delivery i,
@@ -797,7 +797,7 @@ ABOUT PAGE
 .item .history-info {
   padding: 60px;
   color: #fff;
-  background-color: #89bde6;
+  background-color: #3dace1;
   position: relative;
 }
 
@@ -965,7 +965,7 @@ SERVICE PAGES
 }
 
 .service-blocks .service-block:hover .service-icon i {
-  background: #65d3e3;
+  background: #3dace1;
   color: #fff;
 }
 
@@ -987,7 +987,7 @@ SERVICE PAGES
 }
 
 .service-blocks .service-block .service-content h3 a:hover {
-  color: #65d3e3;
+  color: #3dace1;
 }
 
 
@@ -1065,7 +1065,7 @@ SERVICE PAGES
 }
 
 .widget .service-list li.active a {
-  color: #65D3E3;
+  color: #3dace1;
 }
 
 .widget .download-wrap {
@@ -1091,7 +1091,7 @@ SERVICE PAGES
 }
 
 .widget .download-wrap a:hover {
-  border: 2px solid #65D3E3;
+  border: 2px solid #3dace1;
 }
 
 .widget .download-wrap a span {
@@ -1215,7 +1215,7 @@ OUR PEOPLE
 
 .member-thumbnail::before {
   content: "";
-  background-color: rgba(101, 211, 227, 0.8);
+  background-color: #3dace1;
   position: absolute;
   left: 0;
   top: 0;
@@ -1345,7 +1345,7 @@ CAREER Page
 }
 
 .career ul.joblist li a:hover {
-  background: #65D3E3;
+  background: #3dace1;
   color: #FFFFFF;
   border-radius: 2px;
 }
@@ -1382,7 +1382,7 @@ CAREER Page
   font-family: FontAwesome;
   content: "\f192";
   font-size: 10px;
-  color: #65D3E3;
+  color: #3dace1;
   position: absolute;
   top: 3.5px;
   left: 0;
@@ -1424,7 +1424,7 @@ FAQ Page
 }
 
 #accordion .accordion-heading:hover a {
-  color: #65D3E3;
+  color: #3dace1;
 }
 
 #accordion .accordion-heading a.collapsed {
